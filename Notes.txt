@@ -24,8 +24,6 @@ git diff x y gives the difference between two commits
 Commits
 We can commit selected changes by using git commit -p
 
-Ok 
-
-Second Ok
+Ok ---
 
 
