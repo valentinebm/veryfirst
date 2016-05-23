@@ -13,3 +13,7 @@ Ignoring Things
 Commit Logs
 git log shows us all the commits that were made 
 git log --online shows a summary of all commits
+
+Diff
+git diff x y gives the difference between two commits
+
