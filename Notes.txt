@@ -29,5 +29,9 @@ Git branches are like different universes we can experiment in
 git branch shows all our branches
 To create a new branch, use git branch <name>
 
+Checkout
+git checkout <branch name> switches to taht branch
+Branches aren't automatically updated
+
 
 
