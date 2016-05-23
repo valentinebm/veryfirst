@@ -10,6 +10,5 @@ git add tells git to track specific files or folders
 Ignoring Things
 .gitignore files tell git what to completely ignore
 
-Trying
-Trying again
-
+Commit Logs
+git log shows us all the commits that were made 
