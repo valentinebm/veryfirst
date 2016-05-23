@@ -24,6 +24,10 @@ git diff x y gives the difference between two commits
 Commits
 We can commit selected changes by using git commit -p
 
-Ok ---
+Branches
+Git branches are like different universes we can experiment in
+git branch shows all our branches
+To create a new branch, use git branch <name>
+
 
 
