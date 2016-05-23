@@ -12,3 +12,4 @@ Ignoring Things
 
 Commit Logs
 git log shows us all the commits that were made 
+git log --online shows a summary of all commits
