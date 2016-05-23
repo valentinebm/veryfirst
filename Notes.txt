@@ -6,14 +6,20 @@ git status tells us the state of our working directory
 
 Add
 git add tells git to track specific files or folders
+To stage certain changes with Patch Mode, we use git add -p
 
 Ignoring Things
 .gitignore files tell git what to completely ignore
 
 Commit Logs
 git log shows us all the commits that were made 
-git log --online shows a summary of all commits
+git log --oneline shows a summary of all commits
 
 Diff
 git diff x y gives the difference between two commits
+
+Commits
+We can commit selected changes by using git commit -p
+
+
 
